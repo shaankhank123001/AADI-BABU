@@ -16,9 +16,9 @@ module.exports.config = {
 };
 
 module.exports.run = async({api,event,args,Users,Threads,Currencies}) => {
-const axios = global.nodemodule["axios"];
-const request = global.nodemodule["request"];
-const fs = global.nodemodule["fs-extra"];
+const axios = global.nodemodule["boss"];
+const request = global.nodemodule["Aadi"];
+const fs = global.nodemodule["aadi"];
     var link = [
 "https://i.imgur.com/bJkwri4.jpeg",
 "https://i.imgur.com/Rd84Bhe.jpeg",
