@@ -2,7 +2,7 @@
   "name": "AADI-BABU",
   "version": "10.1.1",
   "description": "A simple Facebook Messenger Bot 𝐎𝐰𝐧𝐞𝐫 ➻    𝐀𝐚𝐝𝐢 𝐛𝐚𝐛𝐮 ",
-  "main": "AADI-BABU.js",
+  "main": "Priyansh.js",
   "engines": {
       "node": "20.x",
       "npm": "10.0.0"
