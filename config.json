@@ -16,26 +16,26 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐎𝐰𝐧𝐞𝐫 ➻ 𝐀𝐚𝐝𝐢 𝐛𝐚𝐛𝐮",
-    "PREFIX": "#",
+    "BOTNAME": "➺ 🌸𝐀𝐑𝐘𝐀𝐍:-𝐅𝐀𝐓𝐇𝐄𝐑 𝐎𝐅 𝐁𝐎𝐓",
+    "PREFIX": ".",
     "ADMINBOT": [
         "",
         "",
-        "100066401546757",
-        "",
+        "100092750349098",
+        "61557670222046",
         "",
         "",
         ""
     ],
     "NDH": [
-        "100066401546757"
+        "100092750349098"
     ],
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "AADI-PROJECT.json", //*DON'T CHANAGE JSON NAME
+    "APPSTATEPATH": "appstate.json",
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
@@ -236,4 +236,4 @@
         "autoUnsend": true,
         "delayUnsend": 300
     }
-}
+    }
